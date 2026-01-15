@@ -2,7 +2,7 @@
     "name": "vaishnavan-portfolio",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://vaishnavans.github.io/Vaishnavan_Portfolio/",
+    "homepage": "https://vaishnavans.github.io/",
     "type": "module",
     "scripts": {
         "dev": "vite",
